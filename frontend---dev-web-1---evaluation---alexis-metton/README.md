@@ -1,4 +1,4 @@
-# Projet Backend - Association ANNA
+# Projet Frontend - Association ANNA
 
 Ce frontend est l'interface utilisateur pour permettre aux membres de l'association d'effectuer des recherches, d'afficher les informations de pays, et de consulter des informations détaillées selon leurs rôles.
 
